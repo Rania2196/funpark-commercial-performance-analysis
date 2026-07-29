@@ -69,6 +69,4 @@ funpark-commercial-performance-analysis/
 * Interprétation métier
 * Formulation de recommandations
 
-## Auteure
 
-**Lynda — Data Analyst**
